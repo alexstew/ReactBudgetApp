@@ -1,0 +1,9 @@
+Getting files
+1. Git fetch origin master
+2. Git pull origin master
+
+Uploading files
+1. git add . 
+"." means all changes
+2. git commit -m "message goes here"
+3. git push
